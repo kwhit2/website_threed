@@ -7,7 +7,7 @@
     - Node.js = v11.15.0
     - npm = 6.7.0
 
-- To serve on: http://localhost:3000/
+- To serve on: ```http://localhost:3000/```
 ```
 git clone <repo-url>
 sudo npm install
