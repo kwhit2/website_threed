@@ -2,7 +2,7 @@
 - Experimenting with 3D website deployment
 
 # Instructions to clone and test
-## Node.js and npm and required to run this project. If not installed on your OS or VM you will need to install them.
+## Node.js and npm are required to run this project. If not installed on your OS or VM you will need to install them.
 - Versions for this project
     - Node.js = v11.15.0
     - npm = 6.7.0
