@@ -13,3 +13,6 @@ git clone <repo-url>
 sudo npm install
 sudo npm run dev
 ```
+
+## Gif Demo
+![Gif](./website_3d.gif)
