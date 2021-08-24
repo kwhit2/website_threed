@@ -1,5 +1,5 @@
 # website_threed
-- Experimenting with 3D website deployment
+- Experimenting with 3D website design, developement and deployment using Three.js
 
 # Instructions to clone and test
 ## Node.js and npm are required to run this project. If not installed on your OS or VM you will need to install them.
